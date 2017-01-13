@@ -1,4 +1,4 @@
-# warsawjs-workshop-1-picture
+# warsawjs-workshop-1-text
 
 > Testowa aplikacja na potrzeby WarsawJS Workshop #1. Zadanie typu prework.
 
