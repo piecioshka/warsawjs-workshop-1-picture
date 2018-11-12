@@ -2,4 +2,4 @@
 
 Testowa aplikacja na potrzeby `WarsawJS Workshop #1`. Zadanie typu prework.
 
-![](https://warsawjs.com/static/images/logos/logo-warsawjs.svg){:height="400px" width="400px"}.
+<img src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg" width="400" alt=""/>
