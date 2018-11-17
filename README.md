@@ -95,3 +95,7 @@ Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-st
 Warto użyć skrótu klawiaturowego: `CTRL + R` albo `CTRL + F5`
 
 ![](./images/screenshot-3.png)
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2016
