@@ -6,7 +6,7 @@ Aplikacja stworzona na potrzeby `WarsawJS Workshop #1` (Prework).
 
 ## Demo :tada:
 
-Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-1-text/public/>
+Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-static-page/public/>
 
 ## Krok po kroku 👣
 
