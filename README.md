@@ -10,7 +10,7 @@ Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-st
 
 ## Krok po kroku 👣
 
-1. Stwórz katalog `my-first-project`.
+1. Stwórz katalog `warsawjs-workshop-prework-static-page`.
 2. Wewnątrz katalogu stwórz pliki `index.html` oraz `main.css`.
 3. W pliku `index.html` (w jego 1 linijce) dodaj znacznik `link`, który
     będzie kierował do pliku z `main.css`, wg. wzoru:
