@@ -1,16 +1,14 @@
-# warsawjs-workshop-prework-static-page
+# workshop-javascript-prework-static-page
 
-Aplikacja stworzona na potrzeby `WarsawJS Workshop #1` (Prework).
-
-<img src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg" width="400" alt=""/>
+💾 Workshop prework project — JavaScript (Podstawy programowania)
 
 ## Demo 🎉
 
-Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-static-page/public/>
+<https://piecioshka.github.io/workshop-javascript-prework-static-page/>
 
 ## Krok po kroku 👣
 
-1. Stwórz katalog `warsawjs-workshop-prework-static-page`.
+1. Stwórz katalog `workshop-javascript-prework-static-page`.
 2. Wewnątrz katalogu stwórz pliki `index.html` oraz `main.css`.
 3. W pliku `index.html` (w jego 1 linijce) dodaj znacznik `link`, który
     będzie kierował do pliku z `main.css`, wg. wzoru:
@@ -41,8 +39,6 @@ Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-st
     * Metodą `drag & drop`
     * albo klikając dwukrotnie na `index.html`
 
-    ![](./images/screenshot-1.png)
-
 7. W pliku `index.html` na samym dole dodaj znacznik `script` wg. wzoru:
 
     ```html
@@ -61,8 +57,6 @@ Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-st
     ```
 
 9. Odśwież stronę i poczekać kilka sekund, aż pojawi się nowy napis!
-
-    ![](./images/screenshot-2.png)
 
 ## Zadanie dodatkowe
 
@@ -93,8 +87,6 @@ Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-st
     tekst napisany wybraną czcionką.
 
 Warto użyć skrótu klawiaturowego: `CTRL + R` albo `CTRL + F5`
-
-![](./images/screenshot-3.png)
 
 ## License
 
